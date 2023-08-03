@@ -1,4 +1,4 @@
--- - Seed Department Table
+-- gite
 
 use test_employee_tracker_db;
 
